@@ -1,0 +1,13 @@
+prefix=F:/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/env_name/Library
+exec_prefix=F:/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/env_name/Library
+libdir=F:/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/env_name/Library/lib
+sharedlibdir=F:/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/env_name/Library/lib
+includedir=F:/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/env_name/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
