@@ -1,0 +1,1 @@
+hello this is the source file and these writings will be copied to a destination file.

@@ -1,0 +1,5 @@
+this is newly added line by file.write() in 'w' mode.
+This is also a newly added line 
+but without overwriting the previous one using 'a' append modefirst line
+secon line
+third line
